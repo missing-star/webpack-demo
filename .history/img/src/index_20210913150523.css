@@ -1,0 +1,22 @@
+div#box1,div#box2,div#box3 {
+  width: 200px;
+  height: 200px;
+}
+
+#box1 {
+  background-image: url('./1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#box2 {
+  background-image: url('./2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#box3 {
+  background-image: url('./3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
